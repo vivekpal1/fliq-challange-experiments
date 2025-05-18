@@ -115,7 +115,7 @@ If you use this code for academic purposes, please cite:
 
 ```
 @misc{quantum_gut_baryogenesis,
-  author = {Yvivek},
+  author = {vivek},
   title = {Quantum GUT Baryogenesis Simulation},
   year = {2025},
   publisher = {GitHub},
